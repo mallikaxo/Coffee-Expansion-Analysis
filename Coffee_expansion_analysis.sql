@@ -5,7 +5,10 @@
 -- across cities, customers, and products to derive business insights.
 -- ================================================================
 
+-- ================================================================
 -- Step 1: Create and select the database
+-- ================================================================
+
 CREATE DATABASE coffeesales;
 USE coffeesales;
 
